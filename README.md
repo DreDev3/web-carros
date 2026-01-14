@@ -48,9 +48,9 @@ Para rodar o projeto localmente, siga os passos abaixo:
    git clone [https://github.com/seu-usuario/web-carros.git](https://github.com/seu-usuario/web-carros.git)
 
 2. **Instale as dependências:**
-```bash```
-npm install
-
+   ```bash
+   npm install
+   ```
 3. **Configure o Firebase:**
 
  .Crie um projeto no Firebase Console.
@@ -60,9 +60,9 @@ npm install
  .Crie um arquivo .env na raiz do projeto e adicione suas credenciais.
 
 4. **Inicie o servidor de desenvolvimento:**
-```bash```
-npm run dev
-
+   ```bash
+   npm run dev
+   ```
 Acesse http://localhost:5173 no seu navegador.
 
 Feito por Edson André
